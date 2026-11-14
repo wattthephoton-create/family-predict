@@ -1,0 +1,7 @@
+# Netlify reads this file automatically. Nothing to change here.
+[build]
+  publish = "public"
+
+[functions]
+  directory = "netlify/functions"
+  node_bundler = "esbuild"

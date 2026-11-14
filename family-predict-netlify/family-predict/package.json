@@ -1,0 +1,13 @@
+{
+  "name": "family-predict",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "description": "Play-money prediction market for the family",
+  "engines": {
+    "node": ">=18"
+  },
+  "dependencies": {
+    "@netlify/blobs": "^11.1.9"
+  }
+}
